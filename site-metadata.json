@@ -16,7 +16,7 @@
   },
   "footer": {
     "subscribe_title": "Abonare la newsletter",
-    "subscribe_content": "Afla ultimile noutati din domeniul ozonoterapiei",
+    "subscribe_content": "Afla ultimile noutati din domeniul ozonoterapiei!",
     "has_subscribe": true,
     "social_title": "Social",
     "tagline": "Totul despre ozonoterapie",
@@ -25,8 +25,8 @@
     "content": "&copy; Ozonoterapie.info",
     "links": [
       {
-        "text": "Site securizat prin Let's Encrypt",
-        "url": "https://letsencrypt.org",
+        "text": "Ozonoterapie.info",
+        "url": "https://www.ozonoterapie.info",
         "new_window": true
       }
     ],
