@@ -1,9 +1,9 @@
 {
   "title": "Ozonoterapie.info - Totul despre ozonoterapie",
-  "palette": "purple",
+  "palette": "blue",
   "header": {
     "title": "Ozonoterapie.info",
-    "logo_img": "images/logo.png",
+    "logo_img": "",
     "has_nav": true,
     "menu": {
       "actions": [
