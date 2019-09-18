@@ -25,7 +25,7 @@
     "content": "&copy; Ozonoterapie.info    |    ",
     "links": [
       {
-        "text": "Site securizat cu certifical SSL Let's Encrypt",
+        "text": "Site securizat cu certificat SSL Let's Encrypt",
         "url": "https://letsencrypt.org",
         "new_window": true
       }
