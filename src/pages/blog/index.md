@@ -4,7 +4,7 @@ menus:
   main:
     identifier: ''
     title: Informatii
-    weight: 1
+    weight: 2
   secondary:
     identifier: ''
     title: Informatii
