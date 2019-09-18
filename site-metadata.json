@@ -1,8 +1,8 @@
 {
   "title": "Ozonoterapie.info - Totul despre ozonoterapie",
-  "palette": "green",
+  "palette": "orange",
   "header": {
-    "title": "Azimuth",
+    "title": "Ozonoterapie.info",
     "logo_img": "images/logo.png",
     "has_nav": true,
     "menu": {
@@ -15,22 +15,22 @@
     }
   },
   "footer": {
-    "subscribe_title": "Subscribe",
-    "subscribe_content": "Stay up to date with our latest developments.",
+    "subscribe_title": "Abonare la newsletter",
+    "subscribe_content": "Afla ultimile noutati din domeniul ozonoterapiei",
     "has_subscribe": true,
-    "social_title": "Community",
-    "tagline": "SaaS theme by Stackbit",
+    "social_title": "Social",
+    "tagline": "Totul despre ozonoterapie",
     "logo_img": "images/logo_alt.png",
     "has_social": true,
-    "content": "&copy; Stackbit. All rights reserved.",
+    "content": "&copy; Ozonoterapie.info",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": "Ozonoterapie.info",
+        "url": "https://www.ozonoterapie.info",
         "new_window": true
       }
     ],
-    "nav_title": "Company",
+    "nav_title": "Ozonoterapie",
     "has_nav": true
   }
 }
