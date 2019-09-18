@@ -28,6 +28,11 @@
         "text": "Ozonoterapie.info",
         "url": "https://www.ozonoterapie.info",
         "new_window": true
+      },
+      {
+        "text": "Site securizat cu certifical SSL Let's Encrypt",
+        "url": "https://letsencrypt.org",
+        "new_window": true
       }
     ],
     "nav_title": "Ozonoterapie",
