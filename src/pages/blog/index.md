@@ -1,8 +1,9 @@
 ---
-title: Blog
+title: Informatii
 menus:
   secondary:
-    title: Blog
+    title: Informatii
     weight: 2
 template: blog
 ---
+
