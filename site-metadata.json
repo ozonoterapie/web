@@ -3,7 +3,7 @@
   "palette": "blue",
   "header": {
     "title": "Ozonoterapie.info",
-    "logo_img": "",
+    "logo_img": "/images/logo.png",
     "has_nav": true,
     "menu": {
       "actions": [
@@ -20,7 +20,7 @@
     "has_subscribe": true,
     "social_title": "Social",
     "tagline": "Totul despre ozonoterapie",
-    "logo_img": "",
+    "logo_img": "/images/white-logo.png",
     "has_social": true,
     "content": "&copy; Ozonoterapie.info    |    ",
     "links": [
