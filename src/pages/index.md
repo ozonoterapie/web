@@ -2,15 +2,13 @@
 title: Acasa
 sections:
   - actions:
-      - label: Learn More
-        url: /features
+      - label: Citeste
+        url: /blog
     component: HeroBlock
-    content: >-
-      developers, designers and entrepreneurs who need a sleek, modern SaaS
-      site.
+    content: Afla tot ce trebuie stiut despre terapia cu ozon
     image: images/hero.png
     section_id: hero
-    title: This Is A Big Hero Headline
+    title: Ce este ozonoterapia?
     type: heroblock
   - bg: gray
     component: FeaturesBlock
@@ -23,7 +21,7 @@ sections:
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
         image: images/feature1.png
-        title: The Best Feature of Your Services
+        title: Metode de administrare
       - actions:
           - label: Learn More
             url: /features
@@ -32,7 +30,7 @@ sections:
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
         image: images/feature2.png
-        title: Awesome Feature of Your Services
+        title: Afectiuni tratate
       - actions:
           - label: Learn More
             url: /features
@@ -41,7 +39,7 @@ sections:
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
         image: images/feature3.png
-        title: Cool Feature of Your Services
+        title: Urmarile tratamentelor aplicate incorect
     section_id: features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
@@ -84,7 +82,7 @@ sections:
   - bg: gray
     component: PostsBlock
     section_id: recent-posts
-    title: Latest Posts
+    title: Informatii recente
     type: postsblock
 menus:
   main:
