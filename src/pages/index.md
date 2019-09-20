@@ -35,9 +35,8 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Ce poti pati daca nu sunt urmate recomandarile Comitetului Stiintific
+          International de Ozonoterapie in procedurile de ozonoterapie
         image: /images/12971.jpg
         title: Urmarile tratamentelor aplicate incorect
     section_id: features
