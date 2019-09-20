@@ -1,13 +1,11 @@
 ---
-title: Despre
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-img_path: images/about.jpg
+title: Despre noi
+subtitle: ''
+img_path: /images/ozonoterapie.info.png
 menus:
   secondary:
     title: Despre
     weight: 1
 template: page
 ---
-Ozonoterapia conform ISCO
+Ozonoterapie.info este un site informativ, care promoveaza ozonoterapia conform Comitetului Stiintific International de Ozonoterapie https://isco3.org
