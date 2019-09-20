@@ -1,7 +1,7 @@
 ---
 title: Despre noi
 subtitle: ''
-img_path: /images/ozonoterapie.info.png
+img_path: /images/about.jpg
 menus:
   secondary:
     title: Despre
