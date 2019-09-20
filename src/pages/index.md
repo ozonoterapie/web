@@ -42,9 +42,9 @@ sections:
         title: Urmarile tratamentelor aplicate incorect
     section_id: features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    title: Features
+      Terapia cu ozon reprezinta un tratament revolutionar, cu efecte pe termen
+      lung si cu actiuni vindecatoare remarcabile.
+    title: Ozonoterapia
     type: featuresblock
   - bg: white
     component: ReviewsBlock
