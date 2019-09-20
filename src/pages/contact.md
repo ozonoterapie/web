@@ -6,5 +6,4 @@ menus:
     weight: 3
 template: contact
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula.
+Puteti intra in contact cu noi, completand formularul de mai jos sau prin intermediul paginii de Facebook.
