@@ -4,7 +4,7 @@ subtitle: ''
 img_path: /images/about.jpg
 menus:
   main:
-    weight: 3
+    weight: ''
   secondary:
     title: Despre
     weight: 1
