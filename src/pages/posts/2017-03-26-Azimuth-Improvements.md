@@ -1,10 +1,10 @@
 ---
-title: Release Notes - Azimuth Improvements and New Integrations
+title: Metode de administrare
 subtitle: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. 
 date: '2017-03-26'
-thumb_img_path: images/1_thumb.jpg
+thumb_img_path: /images/metode-de-administrare.jpg
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
