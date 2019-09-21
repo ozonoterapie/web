@@ -3,7 +3,7 @@ title: Contact
 img_path: /images/about.jpg
 menus:
   main:
-    weight: 4
+    weight: ''
   secondary:
     title: Contact
     weight: 3
