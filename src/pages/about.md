@@ -3,6 +3,8 @@ title: Despre noi
 subtitle: ''
 img_path: /images/about.jpg
 menus:
+  main:
+    weight: 3
   secondary:
     title: Despre
     weight: 1
