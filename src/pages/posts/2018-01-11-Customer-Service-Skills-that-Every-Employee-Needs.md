@@ -1,9 +1,9 @@
 ---
-title: 5 Customer Service Skills that Every Employee Needs
+title: Urmarile tratamentelor aplicate incorect
 subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
 date: '2018-01-11'
-thumb_img_path: images/5_thumb.jpg
-content_img_path: images/5.jpg
+thumb_img_path: /images/urmari.jpg
+content_img_path: ''
 excerpt: >-
   Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
   interdum, massa massa tempor ante.
