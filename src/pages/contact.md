@@ -1,5 +1,6 @@
 ---
 title: Contact
+img_path: /images/about.jpg
 menus:
   secondary:
     title: Contact
