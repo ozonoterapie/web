@@ -2,6 +2,8 @@
 title: Contact
 img_path: /images/about.jpg
 menus:
+  main:
+    weight: 4
   secondary:
     title: Contact
     weight: 3
