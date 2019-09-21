@@ -17,7 +17,7 @@
   "footer": {
     "subscribe_title": "Abonare la newsletter",
     "subscribe_content": "Afla ultimile noutati din domeniul ozonoterapiei!",
-    "has_subscribe": false,
+    "has_subscribe": true,
     "social_title": "Social",
     "tagline": "Totul despre ozonoterapie",
     "logo_img": "/images/ozonoterapie.info-white.png",
