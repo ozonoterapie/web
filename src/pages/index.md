@@ -3,7 +3,7 @@ title: Acasa
 sections:
   - actions:
       - label: Citeste
-        url: /blog
+        url: /ce-este-ozonoterapia
     component: HeroBlock
     content: Afla tot ce trebuie stiut despre terapia cu ozon
     image: /images/ce-este-ozonoterapia.jpg
