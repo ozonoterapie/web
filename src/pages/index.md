@@ -23,8 +23,8 @@ sections:
         image: /images/1762.jpg
         title: Metode de administrare
       - actions:
-          - label: Learn More
-            url: /features
+          - label: Citeste
+            url: /afectiuni-tratate-prin-ozonoterapie
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
