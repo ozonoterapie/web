@@ -80,7 +80,7 @@ sections:
     type: ctablock
   - bg: gray
     component: PostsBlock
-    section_id: recent-posts
+    section_id: recent-pages
     title: Informatii recente
     type: postsblock
 menus:
