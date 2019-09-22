@@ -32,8 +32,8 @@ sections:
         image: /images/16884.jpg
         title: Afectiuni tratate
       - actions:
-          - label: Learn More
-            url: /features
+          - label: Citeste
+            url: /urmarile-tratamentelor-aplicate-incorect
         content: >-
           Ce poti pati daca nu sunt urmate recomandarile Comitetului Stiintific
           International de Ozonoterapie in procedurile de ozonoterapie
