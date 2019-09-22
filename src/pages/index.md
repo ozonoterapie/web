@@ -14,8 +14,8 @@ sections:
     component: FeaturesBlock
     featureslist:
       - actions:
-          - label: Learn More
-            url: /features
+          - label: Citeste
+            url: /metode-de-administrare
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
