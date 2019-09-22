@@ -6,7 +6,7 @@ sections:
         url: /blog
     component: HeroBlock
     content: Afla tot ce trebuie stiut despre terapia cu ozon
-    image: images/hero.png
+    image: /images/ce-este-ozonoterapia.jpg
     section_id: hero
     title: Ce este ozonoterapia?
     type: heroblock
