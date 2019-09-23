@@ -36,7 +36,7 @@ sections:
             url: /urmarile-tratamentelor-aplicate-incorect
         content: >-
           Ce poti pati daca nu sunt urmate recomandarile Comitetului Stiintific
-          International de Ozonoterapie in procedurile de ozonoterapie
+          International de Ozonoterapie in procedurile de ozonoterapie.
         image: /images/12971.jpg
         title: Urmarile tratamentelor aplicate incorect
     section_id: features
@@ -68,11 +68,11 @@ sections:
     title: Ozonoterapia
     type: reviewsblock
   - actions:
-      - label: Get Started
+      - label: Afla mai mult
         url: /signup
     component: CtaBlock
     section_id: call-to-action
-    subtitle: Urmarile tratamentelor aplicate incorect
+    subtitle: Contraindicatii si efecte adverse
     title: Ozonoterapia poate face rau?
     type: ctablock
   - bg: gray
