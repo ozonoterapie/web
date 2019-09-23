@@ -69,7 +69,7 @@ sections:
     type: reviewsblock
   - actions:
       - label: Afla mai mult
-        url: /signup
+        url: /ozonoterapia-poate-face-rau
     component: CtaBlock
     section_id: call-to-action
     subtitle: Contraindicatii si efecte adverse
