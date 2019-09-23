@@ -4,7 +4,7 @@ subtitle: ''
 img_path: /images/about.jpg
 menus:
   main:
-    weight: 0
+    weight: ''
   secondary:
     title: Despre noi
     weight: ''
