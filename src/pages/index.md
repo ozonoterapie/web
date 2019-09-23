@@ -49,26 +49,23 @@ sections:
     component: ReviewsBlock
     reviews:
       - author: John Doe
-        avatar: images/review1.jpg
+        avatar: ''
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Ozonul omoara virusurile, bacteriile, mucegaiurile, fungii si cancerul
+          deoarece aceste organisme traiesc in medii cu oxigen putin.
       - author: Jane Roe
-        avatar: images/review2.jpg
+        avatar: ''
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          Actiune detoxifianta. Ozonul are propietatea excelenta de a detoxifia
+          si curata organismul la nivel celular.
       - author: Richard Roe
-        avatar: images/review3.jpg
+        avatar: ''
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Terapia cu ozon produce o reactie antioxidanta puternica, pregatind
+          organismul nostru sa faca fata stresului de orice fel.
     section_id: reviews
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    title: Testimonials
+    subtitle: Ozonoterapia (numita si terapia cu ozon)
+    title: Ozonoterapia
     type: reviewsblock
   - actions:
       - label: Get Started
