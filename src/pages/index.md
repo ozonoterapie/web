@@ -77,7 +77,7 @@ sections:
     type: ctablock
   - bg: gray
     component: PostsBlock
-    section_id: recent-pages
+    section_id: recent-posts
     title: Informatii recente
     type: postsblock
 menus:
