@@ -6,7 +6,7 @@ menus:
   main:
     weight: ''
   secondary:
-    title: Despre noi
+    title: ''
     weight: ''
 template: page
 ---
