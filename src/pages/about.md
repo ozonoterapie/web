@@ -7,7 +7,7 @@ menus:
     weight: 0
   secondary:
     title: Despre noi
-    weight: 1
+    weight: ''
 template: page
 ---
 Ozonoterapie.info este un site informativ, care promoveaza ozonoterapia conform Comitetului Stiintific International de Ozonoterapie <https://isco3.org>
