@@ -72,8 +72,8 @@ sections:
         url: /signup
     component: CtaBlock
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
+    subtitle: Urmarile tratamentelor aplicate incorect
+    title: Ozonoterapia poate face rau?
     type: ctablock
   - bg: gray
     component: PostsBlock
