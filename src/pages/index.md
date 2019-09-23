@@ -85,7 +85,7 @@ menus:
     title: Acasa
     weight: 1
   secondary:
-    weight: ''
+    weight: 1
 template: home
 ---
 
