@@ -48,17 +48,17 @@ sections:
   - bg: white
     component: ReviewsBlock
     reviews:
-      - author: John Doe
+      - author: ''
         avatar: ''
         content: >-
           Ozonul omoara virusurile, bacteriile, mucegaiurile, fungii si cancerul
           deoarece aceste organisme traiesc in medii cu oxigen putin.
-      - author: Jane Roe
+      - author: ''
         avatar: ''
         content: >-
           Actiune detoxifianta. Ozonul are propietatea excelenta de a detoxifia
           si curata organismul la nivel celular.
-      - author: Richard Roe
+      - author: ''
         avatar: ''
         content: >-
           Terapia cu ozon produce o reactie antioxidanta puternica, pregatind
