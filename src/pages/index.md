@@ -109,6 +109,7 @@ sections:
           Declarația de la Madrid poate funcționa cu obiective specifice,
           asigurand o practica unificata cu mare precizie si siguranta.
         question: Ce este "Declaratia de la Madrid privind terapia cu ozon"?
+    title: Intrebari frecvente
     type: faqblock
 menus:
   main:
