@@ -109,7 +109,6 @@ sections:
           Therapy](https://isco3.org/) - abreviat ISCO3 (ISC + formula chimica a
           ozonului O3) este Comitetul Stiintific International al Ozonoterapiei.
         question: Ce este ISCO3?
-      - question: 'Care sunt '
     subtitle: 'Cele mai frecvente intrebari, cu raspunsuri rapide'
     title: Intrebari frecvente
     type: faqblock
