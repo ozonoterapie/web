@@ -80,6 +80,36 @@ sections:
     section_id: recent-posts
     title: Informatii recente
     type: postsblock
+  - bg: gray
+    component: FaqBlock
+    faqitems:
+      - answer: >-
+          [„Declaratia de la Madrid privind terapia cu
+          ozon”](https://isco3.org/madrid-declaration-on-ozone-therapy-2nd-edition-2/)
+          este primul si singurul document de consens global din istoria
+          terapiei cu ozon (ozonoterapiei). A devenit un instrument de referinta
+          important pentru profesionistii din domeniul sanatatii care utilizeaza
+          terapia cu ozon, oriunde in lume.
+
+
+          Cea de-a doua editie a Declaratiei de la Madrid reflecta ultimele
+          progrese medicale si  stiintifice care au avut loc in lumea
+          stiintifica a terapiei cu ozon. Informatiile rezumate in Declaratie se
+          bazeaza pe peste 2.000 de publicatii stiintifice, carti si articole
+          gasite in [Biblioteca Internatională a ISCO3
+          Ozone](https://isco3.org/library/).
+
+
+          Prima editie a fost publicata pe 4 iunie 2010. Prin actualizarea
+          ISCO3, ozoneterapeutii au solicitat ajutor din intreaga lume pentru a
+          propune modificari, ISCO3 a primit un numar mare de propuneri
+          importante din diferite tari.
+
+
+          Declarația de la Madrid poate funcționa cu obiective specifice,
+          asigurand o practica unificata cu mare precizie si siguranta.
+        question: Ce este "Declaratia de la Madrid privind terapia cu ozon"?
+    type: faqblock
 menus:
   main:
     title: Acasa
