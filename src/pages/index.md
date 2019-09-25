@@ -97,13 +97,18 @@ sections:
 
           Prima editie a fost publicata pe 4 iunie 2010. Prin actualizarea
           ISCO3, ozoneterapeutii au solicitat ajutor din intreaga lume pentru a
-          propune modificari, ISCO3 a primit un numar mare de propuneri
-          importante din diferite tari.
+          propune modificari, [ISCO3](https://isco3.org) a primit un numar mare
+          de propuneri importante din diferite tari.
 
 
           Declarația de la Madrid poate funcționa cu obiective specifice,
           asigurand o practica unificata cu mare precizie si siguranta.
         question: Ce este "Declaratia de la Madrid privind terapia cu ozon"?
+      - answer: >-
+          [International Scientific Committee of Ozone
+          Therapy](https://isco3.org/) - abreviat ISCO3 (ISC + formula chimica a
+          ozonului O3) este Comitetul Stiintific International al Ozonoterapiei.
+        question: Ce este ISCO3?
     title: Intrebari frecvente
     type: faqblock
   - bg: gray
