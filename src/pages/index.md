@@ -76,11 +76,6 @@ sections:
     title: Ozonoterapia poate face rau?
     type: ctablock
   - bg: gray
-    component: PostsBlock
-    section_id: recent-posts
-    title: Informatii recente
-    type: postsblock
-  - bg: gray
     component: FaqBlock
     faqitems:
       - answer: >-
@@ -111,6 +106,11 @@ sections:
         question: Ce este "Declaratia de la Madrid privind terapia cu ozon"?
     title: Intrebari frecvente
     type: faqblock
+  - bg: gray
+    component: PostsBlock
+    section_id: recent-posts
+    title: Informatii recente
+    type: postsblock
 menus:
   main:
     title: Acasa
